@@ -1,0 +1,4 @@
+name: testeplugin
+version: '1.0-SNAPSHOT'
+main: com.zicstardust.testeplugin.main
+api-version: 1.19

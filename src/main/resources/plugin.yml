@@ -1,0 +1,4 @@
+name: testeplugin
+version: '${project.version}'
+main: com.zicstardust.testeplugin.main
+api-version: 1.19
